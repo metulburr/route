@@ -1,0 +1,17 @@
+#address | message | frequency | status
+#(status is active for active customers, if anythign else, then not active and #display message when skipped)
+#route[num][0] | route[num][1] | route[num][2] | route[num][3]
+#all categories must exist to parse data correctly
+
+
+799 john st elmira ny | Home | Daily | active
+123 main st elmira ny | put paper on porch | Fri/Sat/Sun | active
+491 fulton st waverly ny | Crinkle paper as they do not tip and complain a lot | Sunday | active
+
+#start sub route, etc. Put comments wherever needed
+
+524 chemung st waverly ny | Tube it | Daily | vacation
+321 chemung sayre PA | put inside door | Sat/Sun | active
+123 keystone ave sayre pa | put in garage | Daily | vacation - restart on 11/17
+234 keystone ave sayre pa | tube it | Weekends | active
+

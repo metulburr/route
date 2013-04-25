@@ -1,0 +1,92 @@
+Head west on John St toward Washington Ct
+DISTANCE: 0.1 mi
+DURATION: 1 min
+
+Turn left onto Washington Ct
+DISTANCE: 0.1 mi
+DURATION: 1 min
+
+Turn right onto E Water St
+DISTANCE: 0.7 mi
+DURATION: 3 mins
+
+Turn left onto N Main St Destination will be on the left
+Deliver  Fri/Sat/Sun: 123 S Main St, Elmira, NY 14904, USA
+MSG:  put paper on porch 
+DISTANCE: 0.3 mi
+DURATION: 1 min
+
+****************************************
+
+Head north on S Main St toward W Gridley Ln
+DISTANCE: 0.3 mi
+DURATION: 1 min
+
+Turn right onto W Water St
+DISTANCE: 1.2 mi
+DURATION: 3 mins
+
+Turn right to merge onto NY-17 E Entering Pennsylvania
+DISTANCE: 14.6 mi
+DURATION: 15 mins
+
+Take exit 60 for US-220 toward Waverly/Sayre
+DISTANCE: 0.3 mi
+DURATION: 1 min
+
+Turn left onto US-220 N Entering New York
+DISTANCE: 0.2 mi
+DURATION: 1 min
+
+Turn right onto Chemung St
+DISTANCE: 0.4 mi
+DURATION: 1 min
+
+Turn left onto Fulton St Destination will be on the left
+Deliver  Sunday: 491 Fulton St, Waverly, NY 14892, USA
+MSG:  Crinkle paper as they do not tip and complain a lot 
+DISTANCE: 0.1 mi
+DURATION: 1 min
+
+****************************************
+
+Head south on Fulton St toward Chemung St
+DISTANCE: 0.1 mi
+DURATION: 1 min
+
+Take the 1st left onto Chemung St Destination will be on the right
+Deliver  Daily: 524 Chemung St, Waverly, NY 14892, USA
+MSG:  Tube it 
+DISTANCE: 0.9 mi
+DURATION: 3 mins
+
+****************************************
+
+Head southwest on Chemung St toward Cayuta Ave
+DISTANCE: 220 ft
+DURATION: 1 min
+
+Take the 1st left onto Cayuta Ave
+DISTANCE: 0.7 mi
+DURATION: 4 mins
+
+Continue onto Spring St Entering Pennsylvania
+DISTANCE: 0.7 mi
+DURATION: 1 min
+
+Slight right onto Mohawk St
+DISTANCE: 0.4 mi
+DURATION: 1 min
+
+Turn left onto N Keystone Ave
+DISTANCE: 0.7 mi
+DURATION: 1 min
+
+Turn left onto Chemung St Destination will be on the right
+Deliver  Sat/Sun: 321 Chemung St, Sayre, PA 18840, USA
+MSG:  put inside door 
+DISTANCE: 0.1 mi
+DURATION: 1 min
+
+****************************************
+

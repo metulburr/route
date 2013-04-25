@@ -1,0 +1,92 @@
+Head west on John St toward Washington Ct
+DISTANCE: 0.1 mi
+DURATION: 1 min
+
+Turn left onto Washington Ct
+DISTANCE: 0.1 mi
+DURATION: 1 min
+
+Turn right onto E Water St
+DISTANCE: 0.7 mi
+DURATION: 3 mins
+
+Turn left onto N Main St Destination will be on the left
+Deliver  Fri/Sat/Sun : 123 South Main Street, Elmira, NY 14904, USA
+MSG:  put paper on porch 
+DISTANCE: 0.3 mi
+DURATION: 1 min
+
+****************************************
+
+Head north on S Main St toward W Gridley Ln
+DISTANCE: 0.3 mi
+DURATION: 1 min
+
+Turn right onto W Water St
+DISTANCE: 1.2 mi
+DURATION: 4 mins
+
+Turn right to merge onto NY-17 E Entering Pennsylvania
+DISTANCE: 14.6 mi
+DURATION: 13 mins
+
+Take exit 60 for US-220 toward Waverly/Sayre
+DISTANCE: 0.3 mi
+DURATION: 1 min
+
+Turn left onto US-220 N Entering New York
+DISTANCE: 0.2 mi
+DURATION: 1 min
+
+Turn right onto Chemung St
+DISTANCE: 0.4 mi
+DURATION: 1 min
+
+Turn left onto Fulton St Destination will be on the left
+Deliver  Sunday : 491 Fulton Street, Waverly, NY 14892, USA
+MSG:  Crinkle paper as they do not tip and complain a lot 
+DISTANCE: 0.1 mi
+DURATION: 1 min
+
+****************************************
+
+SKIP address 524 chemung st waverly ny  due to  vacation
+
+Head south on Fulton St toward Chemung St Entering Pennsylvania
+DISTANCE: 0.4 mi
+DURATION: 2 mins
+
+Turn left onto Yanuzzi Drive
+DISTANCE: 0.3 mi
+DURATION: 1 min
+
+Take the 2nd right onto N Keystone Ave
+DISTANCE: 0.4 mi
+DURATION: 1 min
+
+Slight right to stay on N Keystone Ave
+DISTANCE: 1.2 mi
+DURATION: 4 mins
+
+Turn left onto Chemung St Destination will be on the right
+Deliver  Sat/Sun : 321 Chemung Street, Sayre, PA 18840, USA
+MSG:  put inside door 
+DISTANCE: 0.1 mi
+DURATION: 1 min
+
+****************************************
+
+SKIP address 123 keystone ave sayre pa  due to  vacation - restart on 11/17
+
+Head west on Chemung St toward S Keystone Ave
+DISTANCE: 0.1 mi
+DURATION: 1 min
+
+Turn right onto S Keystone Ave Destination will be on the left
+Deliver  Weekends : 234 South Keystone Avenue, Sayre, PA 18840, USA
+MSG:  tube it 
+DISTANCE: 374 ft
+DURATION: 1 min
+
+****************************************
+
